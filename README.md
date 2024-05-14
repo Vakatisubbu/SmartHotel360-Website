@@ -1,3 +1,4 @@
+#Git changed new comments in Github site need to check how will synchrize with local repo
 # **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
 
 ## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
